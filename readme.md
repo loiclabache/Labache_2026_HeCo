@@ -239,16 +239,17 @@ files used directly by the analysis scripts: `ALANs_description.txt`,
   colleagues (2019)](https://doi.org/10.1007/s00429-018-1810-2).
 
 - **Yan 400-parcel homotopic parcellation and Yeo seven-network
-  mapping:** The homotopic cortical parcellation of Yan and colleagues
-  provides **400 corresponding cortical parcels across the two
-  hemispheres**. This homotopic parcellation served as the common
-  cortical framework for the parcel-based analyses conducted throughout
-  this study. The **ALANs attention networks were projected onto this
-  parcellation** to derive the task-evoked and resting-state attention
-  lateralization markers used across the study. The same parcellation
-  was also used to construct the **400 × 400 structural-connectivity
-  matrices**. Parcels were additionally assigned to the **seven
-  canonical functional networks** described by [Yeo and colleagues
+  mapping:** The homotopic cortical parcellation of [Yan and colleagues
+  (2023)](https://doi.org/10.1016/j.neuroimage.2023.120010) provides
+  **400 corresponding cortical parcels across the two hemispheres**.
+  This homotopic parcellation served as the common cortical framework
+  for the parcel-based analyses conducted throughout this study. The
+  **ALANs attention networks were projected onto this parcellation** to
+  derive the task-evoked and resting-state attention lateralization
+  markers used across the study. The same parcellation was also used to
+  construct the **400 × 400 structural-connectivity matrices**. Parcels
+  were additionally assigned to the **seven canonical functional
+  networks** described by [Yeo and colleagues
   (2011)](https://doi.org/10.1152/jn.00338.2011). Script 9 uses
   `Atlas/400Parcels_Yeo2011_7Networks.txt` for these parcel-to-network
   assignments. The underlying Yan parcellation used in this study is
