@@ -3,7 +3,7 @@ title: "Hemispheric Complementarity is Associated with Distinct Functional and S
 output: github_document
 ---
 
-<!-- Add a Zenodo DOI badge here after archiving the first public release. -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23750025.svg)](https://doi.org/10.5281/zenodo.23750025)
 
 ------------------------------------------------------------------------
 

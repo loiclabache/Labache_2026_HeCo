@@ -2,7 +2,7 @@ Hemispheric Complementarity is Associated with Distinct Functional and
 Structural Brain Profiles
 ================
 
-<!-- Add a Zenodo DOI badge here after archiving the first public release. -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23750025.svg)](https://doi.org/10.5281/zenodo.23750025)
 
 ------------------------------------------------------------------------
 
