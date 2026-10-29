@@ -35,11 +35,9 @@ For usage of the ***manuscript***, please cite:
 
 - **Labache, L.**, Beyh, A., Cooper, R., Parkes, L., & Holmes, A. J. (2026). *Hemispheric Complementarity is Associated with Distinct Functional and Structural Brain Profiles*. bioRxiv (*preprint*). DOI: [10.64898/2026.10.09.758042](https://doi.org/10.64898/2026.10.09.758042).
 
-<!-- 
 For usage of the associated ***code***, please also cite:
 
-- **Labache, L.**, Beyh, A., Cooper, R., Parkes, L., & Holmes, A. J. (2026). *Hemispheric Complementarity is Associated with Distinct Functional and Structural Brain Profiles*. `loiclabache/Labache_2026_HeCo`: [https://github.com/loiclabache/Labache_2026_HeCo](https://github.com/loiclabache/Labache_2026_HeCo). A permanent software DOI can be added here after a repository release has been archived.
--->
+-   **Labache, L.** (2026). *Hemispheric Complementarity is Associated with Distinct Functional and Structural Brain Profiles*. loiclabache/Labache_2026_HeCo. DOI: [10.5281/zenodo.23750025](https://zenodo.org/doi/10.5281/zenodo.23750025)
 
 ------------------------------------------------------------------------
 
