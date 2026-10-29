@@ -167,32 +167,30 @@ The primary inputs are:
   these files support the analyses of hemispheric complementarity. The
   combined phenotype and covariate table used in the subsequent analyses
   is `HCP_987_participants_phenotype_crowding.csv`.
-- **Heritability and cognition:** `HCP_984_participants_FamilyData.csv`
-  contains family-related information used for the kinship-based
-  analyses and is **not publicly shared** because it is subject to **HCP
-  Restricted Access** requirements. We are happy to provide the file
-  upon request to researchers with the appropriate HCP Restricted Access
-  authorization, where permitted by the applicable HCP data-use
-  agreements. The cognitive measures used in this study originate from
-  `HCP_1206_participants_unrestricted.csv` and can be obtained through
-  the official HCP distribution.
-- **Cortical myelination:**
-  `HCP_987_participants_SmoothedMyelinMap.rds`,
+- **Heritability and cognition:** The family-relationship file
+  `HCP_984_participants_FamilyData.csv`, used for kinship-based
+  analyses, is **not included in this repository due to HCP Restricted
+  Access requirements**. Access to these data requires the appropriate
+  HCP authorization and is governed by the applicable data-use
+  agreements. The cognitive measures used in this study were obtained
+  from `HCP_1206_participants_unrestricted.csv`, available through the
+  official HCP distribution.
+- **Cortical myelination:** The participant-level, vertex-wise surface
+  files `HCP_987_participants_SmoothedMyelinMap.rds`,
   `HCP_987_participants_Curvature.rds`, and
-  `HCP_987_participants_Thickness.rds` contain participant-level,
-  vertex-wise surface imaging data used in the cortical myelination
-  analyses. These files are **not publicly shared**. Access may be
-  considered upon reasonable request from researchers with the
-  appropriate HCP data-access authorization, subject to the applicable
-  HCP data-use agreements and institutional requirements.
+  `HCP_987_participants_Thickness.rds` are **not included in this
+  repository because of HCP data-sharing restrictions**. Access to these
+  analysis-specific files is subject to appropriate HCP data-access
+  authorization, applicable data-use agreements, and institutional
+  requirements.
 - **Structural connectivity:**
   `HCP_981_participants_400YanROIs_FiberDensity.Rds` contains individual
   400 × 400 parcel-level HMOA matrices used for the structural
   connectivity analysis.
 
-**Important Note:** All original HCP participant IDs have been replaced
-with anonymized identifiers throughout the data files. Information on
-family structure and certain demographic variables is subject to HCP
+**Important Note:** Original HCP participant IDs have been replaced with
+anonymized identifiers throughout the data files. Information on family
+structure and certain demographic variables is subject to HCP
 restricted-access requirements and is therefore not shared in this
 repository. Raw HCP data must be obtained through the official [HCP
 access process](https://www.humanconnectome.org/study/hcp-young-adult);
@@ -226,7 +224,7 @@ files used directly by the analysis scripts: `ALANs_description.txt`,
   colleagues (2024)](https://doi.org/10.1162/imag_a_00208).
 
 - **SENSAAS (SENtence Supramodal Areas AtlaS):** This atlas defines
-  cortical regions supporting sentence (*language*) processing. Its
+  cortical regions supporting sentence processing (*language*). Its
   **SENT_CORE** network was used to quantify the spatial overlap between
   language-related regions and the ALANs attention networks. In
   conjunction with previously established [language-lateralization
